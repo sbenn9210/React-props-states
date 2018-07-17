@@ -1,0 +1,20 @@
+#container {
+  display: flex;
+  margin: auto;
+  width: 50%;
+  padding: 2%;
+}
+
+.btn {
+  background: green;
+  padding: 4%;
+  border-radius: 10px;
+
+}
+
+#display {
+  padding: 0 100px 0 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+
+}
